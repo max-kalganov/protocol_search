@@ -18,5 +18,5 @@ Protocol - a set of mandatory guidelines for the treatment process which were ap
 ## Future improvements
 
 - make a treatment template
-- fill the template with info from the protocol 
-- a doctor edits template to better fit the patient
+- fill the template with the info from the protocol 
+- a doctor edits the template to better fit the patient
